@@ -202,7 +202,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-around;
-  gap: 40px;
+  gap: 50px;
   flex-grow: 1;
   z-index: 100;
 }
@@ -738,6 +738,11 @@ body {
     touch-action: manipulation;
   }
 
+  .setting-btn,
+  .playlist-setting-btn {
+    font-size: 2rem;
+  }
+
   .playlist-container {
     -webkit-overflow-scrolling: touch;
   }
@@ -839,7 +844,7 @@ body {
   .playlist-setting-btn,
   .setting-btn,
   .playlist-close-btn {
-    font-size: 1.5rem;
+    font-size: 1.7rem;
   }
 
   .progress-container-box,
