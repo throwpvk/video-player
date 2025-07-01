@@ -681,7 +681,7 @@ body {
 
   .progress-container-box,
   .progress-bar-wrapper {
-    gap: 5px;
+    gap: 10px;
   }
 
   .progress-bar-container {
@@ -844,7 +844,7 @@ body {
 
   .progress-container-box,
   .progress-bar-wrapper {
-    gap: 2px;
+    gap: 10px;
   }
 
   .current-time-text,
